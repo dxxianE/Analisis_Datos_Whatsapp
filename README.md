@@ -16,7 +16,7 @@ drive.mount('/content/drive')
 ### En la cuarta celda importa el chat exportado desde whatsapp en formato .txt:
 file_path = 'yyyyy.txt'
 
-#¿Qué podemos apreciar en este análisis?
+# ¿Qué podemos apreciar en este análisis?
 * Primer y último mensaje en el chat
 * Total de mensajes, multimedia, emojis, links, mensajes eliminados y encuestas
 * Emojis más usados
